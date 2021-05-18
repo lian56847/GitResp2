@@ -10,4 +10,5 @@ public class student {
     private  String name ;
     private  int age ;
     private double weight;
+    private  String username ;
 }
